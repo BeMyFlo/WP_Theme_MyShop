@@ -1,0 +1,13 @@
+/* Optional: menu đẹp hơn */
+.navbar-nav .nav-item {
+  position: relative;
+}
+
+.navbar-nav .dropdown-menu {
+  min-width: 200px;
+  border-radius: 0.25rem;
+}
+
+.navbar-nav .dropdown-item:hover {
+  background-color: #f8f9fa;
+}
