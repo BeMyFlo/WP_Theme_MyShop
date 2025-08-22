@@ -11,3 +11,19 @@
 .navbar-nav .dropdown-item:hover {
   background-color: #f8f9fa;
 }
+
+.navbar {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: #f8f9fa;
+}
+
+.navbar-nav .nav-link {
+  padding: 0.75rem 1.25rem;
+  font-size: 1.1rem;
+}
+
+.featured-products {
+  padding-left: 150px;
+  padding-right: 150px;
+}
